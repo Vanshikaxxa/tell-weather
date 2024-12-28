@@ -6,6 +6,8 @@ A simple weather application that provides current weather information based on 
 - **Location-Based Search:** Provides weather details for the current location or any searched city.
 - **User-Friendly Interface:** Responsive design and easy-to-use interface.
 - **Dynamic Updates:** Displays temperature, weather conditions, and additional details dynamically.
+  ![image](https://github.com/user-attachments/assets/6068f063-5fda-4810-9e82-f5bd584b80ed)
+
 
 ## Getting Started
 
